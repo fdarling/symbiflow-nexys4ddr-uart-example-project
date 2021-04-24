@@ -1,4 +1,4 @@
-# MicroNova Mercury 2 / SymbiFlow example project
+# Digilent Nexsys 4 DDR / SymbiFlow example project with simple UART loopback
 
 This is a test project for the Digilent Nexsys 4 DDR development board using the [SymbiFlow](https://symbiflow.github.io/) open source toolchain instead of Xilinx Vivado.
 
